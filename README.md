@@ -23,13 +23,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="assets/WalkthroughWeb102.gif" title="Video Walkthrough" alt="Video Walkthrough" />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap  
 
 ## Notes
 
-A couple of the secret keys were difficult to figure out even though the challenge steps were completed correctly. It took some extra time to match the exact format and length required.
+Describe any challenges encountered while building the app.
 
 ## License
 
